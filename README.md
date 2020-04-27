@@ -1,2 +1,2 @@
 # R.C.S
-RCS
+Rubik's Cube Solver
